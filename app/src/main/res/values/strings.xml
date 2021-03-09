@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="facebook_app_id">707579210106403</string>
+    <string name="fb_login_protocol_scheme">fb707579210106403</string>
+    <string name="web_client_id">66925285927-alj5geafjdrqrfam0ddi8rv4dg2nhodq.apps.googleusercontent.com</string>
+</resources>
